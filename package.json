@@ -11,6 +11,10 @@
   "keywords": [
     "http"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cardamon-dk/http"
+  },
   "author": "cardamon",
   "license": "MIT",
   "dependencies": {
